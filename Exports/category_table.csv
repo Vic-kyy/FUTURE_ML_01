@@ -1,0 +1,181 @@
+ds,Forecated,Actual Sales,type,level
+31/01/2014,365.79757763707903,188.98399999999998,Actual,Category - Furniture
+28/02/2014,353.86532196219014,129.568,Actual,Category - Furniture
+31/03/2014,1139.69947934528,503.264,Actual,Category - Furniture
+30/04/2014,1757.7718195917214,17.46,Actual,Category - Furniture
+31/05/2014,727.0775258731463,944.112,Actual,Category - Furniture
+30/06/2014,2370.675209326108,6060.561,Actual,Category - Furniture
+31/07/2014,1202.4798606888132,1677.402,Actual,Category - Furniture
+31/08/2014,1608.9364921311812,886.654,Actual,Category - Furniture
+30/09/2014,3124.3339641298335,2458.428,Actual,Category - Furniture
+31/10/2014,2253.827645133456,1522.358,Actual,Category - Furniture
+30/11/2014,2906.5778193837828,1133.488,Actual,Category - Furniture
+31/12/2014,3216.9823240369305,2263.958,Actual,Category - Furniture
+31/01/2015,521.5546164546938,760.534,Actual,Category - Furniture
+28/02/2015,723.6876809862396,579.664,Actual,Category - Furniture
+31/03/2015,1620.1902082871813,1954.45,Actual,Category - Furniture
+30/04/2015,1609.8681878919763,2875.683,Actual,Category - Furniture
+31/05/2015,54.29886908766457,49,Actual,Category - Furniture
+30/06/2015,2258.487024133322,332.94,Actual,Category - Furniture
+31/07/2015,1637.6139163545092,1729.987,Actual,Category - Furniture
+31/08/2015,1734.2917911934946,2085.243,Actual,Category - Furniture
+30/09/2015,3037.6001113696666,4456.86,Actual,Category - Furniture
+31/10/2015,2646.775545878262,3256.6455,Actual,Category - Furniture
+30/11/2015,2851.111955154306,2967.9995,Actual,Category - Furniture
+31/12/2015,2335.4763827265306,3151.2592,Actual,Category - Furniture
+31/01/2016,697.1003799711189,322.59,Actual,Category - Furniture
+29/02/2016,-330.6155855,44.46,Actual,Category - Furniture
+31/03/2016,187.70457856167332,887.0419999999999,Actual,Category - Furniture
+30/04/2016,2035.4219470550202,3276.882,Actual,Category - Furniture
+31/05/2016,2107.868262143719,2492.728,Actual,Category - Furniture
+30/06/2016,2683.8750718258098,2314.767,Actual,Category - Furniture
+31/07/2016,397.7225650912112,566.628,Actual,Category - Furniture
+31/08/2016,1388.866708165148,786.744,Actual,Category - Furniture
+30/09/2016,3337.5964321009274,5063.729600000001,Actual,Category - Furniture
+31/10/2016,1494.9332541393128,1835.5320000000002,Actual,Category - Furniture
+30/11/2016,3006.512766615308,1610.734,Actual,Category - Furniture
+31/12/2016,5028.574320782615,6207.858,Actual,Category - Furniture
+31/01/2017,269.60741031140583,587.282,Actual,Category - Furniture
+28/02/2017,28.764970645644098,22.23,Actual,Category - Furniture
+31/03/2017,688.5312595438601,290.7668,Actual,Category - Furniture
+30/04/2017,1926.2599972674777,1156.2985,Actual,Category - Furniture
+31/05/2017,1438.4555755835645,840.29,Actual,Category - Furniture
+30/06/2017,2539.108209831702,1139.444,Actual,Category - Furniture
+31/07/2017,815.5822730571685,80.164,Actual,Category - Furniture
+31/08/2017,1520.2556283726162,2493.264,Actual,Category - Furniture
+30/09/2017,3250.864445455937,771.898,Actual,Category - Furniture
+31/10/2017,1896.2961286533935,1679.464,Actual,Category - Furniture
+30/11/2017,2985.0114887012014,6036.481,Actual,Category - Furniture
+31/12/2017,4141.587090755475,3100.0618,Actual,Category - Furniture
+31/01/2018,405.629026591962,,Forecast,Category - Furniture
+28/02/2018,393.6967705656639,,Forecast,Category - Furniture
+31/03/2018,1179.5309275607776,,Forecast,Category - Furniture
+30/04/2018,1797.603267443532,,Forecast,Category - Furniture
+31/05/2018,766.908973354492,,Forecast,Category - Furniture
+30/06/2018,2410.5066564435574,,Forecast,Category - Furniture
+31/07/2018,1242.3113074235391,,Forecast,Category - Furniture
+31/08/2018,1648.767938506077,,Forecast,Category - Furniture
+30/09/2018,3164.1654101886143,,Forecast,Category - Furniture
+31/10/2018,2293.6590908677026,,Forecast,Category - Furniture
+30/11/2018,2946.4092648380215,,Forecast,Category - Furniture
+31/12/2018,3256.813769159875,,Forecast,Category - Furniture
+31/01/2014,888.8858128647868,989.4739999999999,Actual,Category - Office Supplies
+28/02/2014,-145.4797838,0,Actual,Category - Office Supplies
+31/03/2014,2757.4331683419746,357.998,Actual,Category - Office Supplies
+30/04/2014,661.8474243447902,698.28,Actual,Category - Office Supplies
+31/05/2014,1561.8115674112125,3155.2,Actual,Category - Office Supplies
+30/06/2014,1635.1900149903202,2881.6459999999997,Actual,Category - Office Supplies
+31/07/2014,579.1978587351525,276.652,Actual,Category - Office Supplies
+31/08/2014,1458.0871867828043,620.328,Actual,Category - Office Supplies
+30/09/2014,2546.108771177319,1669.228,Actual,Category - Office Supplies
+31/10/2014,1006.2405355771801,473.69,Actual,Category - Office Supplies
+30/11/2014,1857.5679466723907,1349.582,Actual,Category - Office Supplies
+31/12/2014,2236.8546524838066,1624.262,Actual,Category - Office Supplies
+31/01/2015,423.2750774233973,69.6,Actual,Category - Office Supplies
+28/02/2015,-400.5849703,0,Actual,Category - Office Supplies
+31/03/2015,4122.862982612124,6642.802,Actual,Category - Office Supplies
+30/04/2015,55.60063744270178,831.922,Actual,Category - Office Supplies
+31/05/2015,2051.552474404565,1749.3220000000001,Actual,Category - Office Supplies
+30/06/2015,761.9354068099701,250.21200000000002,Actual,Category - Office Supplies
+31/07/2015,961.2774975039807,926.94,Actual,Category - Office Supplies
+31/08/2015,2252.812560540832,2381.526,Actual,Category - Office Supplies
+30/09/2015,1724.8329507212766,2215.7380000000003,Actual,Category - Office Supplies
+31/10/2015,1094.9047480248664,398.198,Actual,Category - Office Supplies
+30/11/2015,2799.4601111140464,2148.811,Actual,Category - Office Supplies
+31/12/2015,1987.4412704712156,1784.78,Actual,Category - Office Supplies
+31/01/2016,-44.2415097,103.32,Actual,Category - Office Supplies
+29/02/2016,673.3890897498237,389.76,Actual,Category - Office Supplies
+31/03/2016,260.2051102804687,858.559,Actual,Category - Office Supplies
+30/04/2016,2068.6946583750178,1727.877,Actual,Category - Office Supplies
+31/05/2016,794.0760136174791,306.056,Actual,Category - Office Supplies
+30/06/2016,3622.335216278665,3425.848,Actual,Category - Office Supplies
+31/07/2016,108.62251116675566,393.472,Actual,Category - Office Supplies
+31/08/2016,72.90802135346166,1286.298,Actual,Category - Office Supplies
+30/09/2016,4403.543517594183,7260.876,Actual,Category - Office Supplies
+31/10/2016,1121.9634321429276,2130.252,Actual,Category - Office Supplies
+30/11/2016,190.79397986829667,779.1189999999999,Actual,Category - Office Supplies
+31/12/2016,2906.502615835628,3324.36,Actual,Category - Office Supplies
+31/01/2017,1586.2683163327908,1677.362,Actual,Category - Office Supplies
+28/02/2017,368.893296764953,99.76,Actual,Category - Office Supplies
+31/03/2017,1625.7804544564233,896.248,Actual,Category - Office Supplies
+30/04/2017,1489.3160164566937,1016.924,Actual,Category - Office Supplies
+31/05/2017,1298.949381490098,496.118,Actual,Category - Office Supplies
+30/06/2017,2745.297167319156,2208.378,Actual,Category - Office Supplies
+31/07/2017,451.22242060699637,511.13199999999995,Actual,Category - Office Supplies
+31/08/2017,887.5437542227362,387.10400000000004,Actual,Category - Office Supplies
+30/09/2017,3595.611238525642,1114.942,Actual,Category - Office Supplies
+31/10/2017,1171.5888807712195,1388.3980000000001,Actual,Category - Office Supplies
+30/11/2017,1144.0272768735945,1699.344,Actual,Category - Office Supplies
+31/12/2017,2699.6289014781682,3076.657,Actual,Category - Office Supplies
+31/01/2018,1123.3875447027556,,Forecast,Category - Office Supplies
+28/02/2018,89.02194798342657,,Forecast,Category - Office Supplies
+31/03/2018,2991.9349001522687,,Forecast,Category - Office Supplies
+30/04/2018,896.349156162493,,Forecast,Category - Office Supplies
+31/05/2018,1796.3132992256071,,Forecast,Category - Office Supplies
+30/06/2018,1869.6917468652414,,Forecast,Category - Office Supplies
+31/07/2018,813.6995906550659,,Forecast,Category - Office Supplies
+31/08/2018,1692.5889187560429,,Forecast,Category - Office Supplies
+30/09/2018,2780.610503154583,,Forecast,Category - Office Supplies
+31/10/2018,1240.742267546755,,Forecast,Category - Office Supplies
+30/11/2018,2092.069678639775,,Forecast,Category - Office Supplies
+31/12/2018,2471.3563843917373,,Forecast,Category - Office Supplies
+31/01/2014,3041.095595454476,802.1400000000001,Actual,Category - Technology
+28/02/2014,935.2938004398417,584.26,Actual,Category - Technology
+31/03/2014,656.6489531796924,0,Actual,Category - Technology
+30/04/2014,1453.969132056593,71.928,Actual,Category - Technology
+31/05/2014,1336.8913523922276,1067.832,Actual,Category - Technology
+30/06/2014,1541.6349954728419,2372.124,Actual,Category - Technology
+31/07/2014,2054.4774331218573,2340.896,Actual,Category - Technology
+31/08/2014,863.7244785586875,2214.6,Actual,Category - Technology
+30/09/2014,7284.039463591043,16317.408,Actual,Category - Technology
+31/10/2014,1332.5125698688878,2770.822,Actual,Category - Technology
+30/11/2014,5133.661183028071,8558.75,Actual,Category - Technology
+31/12/2014,2771.718359469074,1064.272,Actual,Category - Technology
+31/01/2015,1926.3746577825377,1340.566,Actual,Category - Technology
+28/02/2015,1638.9046753122107,278.752,Actual,Category - Technology
+31/03/2015,1026.9863769320855,184.632,Actual,Category - Technology
+30/04/2015,1347.7696944793622,1487.0500000000002,Actual,Category - Technology
+31/05/2015,521.3859305561585,0,Actual,Category - Technology
+30/06/2015,976.2393432804654,41.9,Actual,Category - Technology
+31/07/2015,2365.504146482777,2644.53,Actual,Category - Technology
+31/08/2015,595.4906272577541,0,Actual,Category - Technology
+30/09/2015,7313.977699696677,2314.184,Actual,Category - Technology
+31/10/2015,1451.524325819232,567.424,Actual,Category - Technology
+30/11/2015,5046.123538623796,1064.656,Actual,Category - Technology
+31/12/2015,2263.7714454255574,2387.39,Actual,Category - Technology
+31/01/2016,826.8834475984683,758.774,Actual,Category - Technology
+29/02/2016,-1045.018765,0,Actual,Category - Technology
+31/03/2016,-743.942896,367.012,Actual,Category - Technology
+30/04/2016,968.1082931231595,2488.166,Actual,Category - Technology
+31/05/2016,2305.642484500665,2559.326,Actual,Category - Technology
+30/06/2016,2086.1280880007766,1533.027,Actual,Category - Technology
+31/07/2016,830.2299463235522,1380.4569999999999,Actual,Category - Technology
+31/08/2016,776.4142903180536,386.874,Actual,Category - Technology
+30/09/2016,6596.15358740376,5175.066,Actual,Category - Technology
+31/10/2016,453.2981084776734,302.376,Actual,Category - Technology
+30/11/2016,4631.860401481656,1200.914,Actual,Category - Technology
+31/12/2016,3117.472536293465,3764.7380000000003,Actual,Category - Technology
+31/01/2017,3538.062650666663,6446.902,Actual,Category - Technology
+28/02/2017,-380.9151604,275.938,Actual,Category - Technology
+31/03/2017,-355.2082741,27.816,Actual,Category - Technology
+30/04/2017,906.1608327925856,617.976,Actual,Category - Technology
+31/05/2017,1510.6973474092958,2037.4720000000002,Actual,Category - Technology
+30/06/2017,1490.5564793827057,2136.962,Actual,Category - Technology
+31/07/2017,1121.3649058136389,0,Actual,Category - Technology
+31/08/2017,502.76478477804744,133.894,Actual,Category - Technology
+30/09/2017,6623.420314100952,4010.1059999999998,Actual,Category - Technology
+31/10/2017,578.3949856918325,180.92000000000002,Actual,Category - Technology
+30/11/2017,4574.324477481113,8563.784,Actual,Category - Technology
+31/12/2017,2635.2790958739747,3578.898,Actual,Category - Technology
+31/01/2018,2409.2424132331216,,Forecast,Category - Technology
+28/02/2018,303.44061739620804,,Forecast,Category - Technology
+31/03/2018,24.795769756813115,,Forecast,Category - Technology
+30/04/2018,822.1159482814942,,Forecast,Category - Technology
+31/05/2018,705.0381684403824,,Forecast,Category - Technology
+30/06/2018,909.7818112428208,,Forecast,Category - Technology
+31/07/2018,1422.6242485870127,,Forecast,Category - Technology
+31/08/2018,231.87129339222474,,Forecast,Category - Technology
+30/09/2018,6652.18627812386,,Forecast,Category - Technology
+31/10/2018,700.6593840978632,,Forecast,Category - Technology
+30/11/2018,4501.80799684991,,Forecast,Category - Technology
+31/12/2018,2139.865173186168,,Forecast,Category - Technology
