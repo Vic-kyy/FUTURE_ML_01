@@ -60,3 +60,4 @@ This project was completed as Task 1 during my internship, focusing on building 
 	•	Automated data pipelines
 <img width="759" height="371" alt="Screenshot 2025-12-16 at 7 49 42 PM" src="https://github.com/user-attachments/assets/2afb789d-d2e2-4571-940e-c055e6b4d5c2" />
 <img width="749" height="643" alt="Screenshot 2025-12-16 at 7 50 01 PM" src="https://github.com/user-attachments/assets/627dd7ca-0df4-4362-8421-07f61a52d08f" />
+<img width="586" height="637" alt="Screenshot 2025-12-17 at 11 40 14 AM" src="https://github.com/user-attachments/assets/7867e6db-ecca-41d2-91a4-767f5693fef3" />
